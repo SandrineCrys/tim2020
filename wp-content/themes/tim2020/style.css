@@ -944,6 +944,10 @@ textarea {
 }
 
 .site-title a {
-  color: blue;
+  color: #ffffff;
+}
+
+.site {
+  background-color: #0052AF;
 }
 /*# sourceMappingURL=style.css.map */
